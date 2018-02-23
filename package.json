@@ -1,0 +1,22 @@
+{
+  "name": "dates-between",
+  "version": "1.0.0",
+  "description": "get array dates between two dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyad/dates-between.git"
+  },
+  "keywords": [
+    "dates"
+  ],
+  "author": "Kelly Adiputra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyad/dates-between/issues"
+  },
+  "homepage": "https://github.com/kellyad/dates-between#readme"
+}
